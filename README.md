@@ -2,7 +2,7 @@
 
 Exploratory data analysis of the **Loan Approval dataset**: which features drive `loan_status` (Approved / Rejected)?
 
-**Student:** Pantelis Donoupoglou · **Instructor:** Dr. Dimitris Grigoriadis · ACG Deree
+**Student:** Pantelis Donoupoglou (290785) · **Instructor:** Dr. Dimitris Grigoriadis 
 
 ## Contents
 | File | Description |
